@@ -1,5 +1,5 @@
 {
-  "name": "mohamedhk2/diff-implementation",
+  "name": "mohamedhk2/diff",
   "type": "library",
   "description": "Diff is the name of a file comparison program released for the Unix operating system in 1974. The word diff is now used more generally to refer both to a function that compares strings or files, and to the output of that function.",
   "keywords": [
