@@ -1,0 +1,30 @@
+{
+  "name": "mohamedhk2/diff-implementation",
+  "type": "library",
+  "description": "Diff is the name of a file comparison program released for the Unix operating system in 1974. The word diff is now used more generally to refer both to a function that compares strings or files, and to the output of that function.",
+  "keywords": [
+    "diff",
+    "php"
+  ],
+  "authors": [
+    {
+      "name": "iamkate.com",
+      "homepage": "http://www.iamkate.com",
+      "role": "Developer"
+    },
+    {
+      "name": "mohamedhk2",
+      "role": "Developer"
+    }
+  ],
+  "homepage": "http://code.iamkate.com/php/diff-implementation",
+  "license": "MIT",
+  "autoload": {
+    "files": [
+      "class.Diff.php"
+    ]
+  },
+  "require": {
+    "php": ">=5.6"
+  }
+}
